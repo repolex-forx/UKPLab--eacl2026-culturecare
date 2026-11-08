@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/eacl2026-culturecare/commit/ad950b84a8b2d4606a50c4f87c465976208be5a4",
       "git:hexsha": "ad950b84a8b2d4606a50c4f87c465976208be5a4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
